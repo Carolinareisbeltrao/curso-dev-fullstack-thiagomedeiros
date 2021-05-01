@@ -1,0 +1,86 @@
+body{
+    background:grey;
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    margin: 0;
+}
+
+.container{
+    width: 900px;
+    margin:30px
+}
+
+.profile{
+    text-align: center;
+    background: rgb(12, 12, 12);
+    margin-bottom: 40px;
+}
+
+.foto-principal{
+    width: 200px;
+    border: 2px solid rgb(10, 10, 10);
+    border-radius: 50%;
+    margin: 30px 30px 0 30px;
+    box-shadow: 2px 5px 10px rgb(8, 6, 6);
+}
+
+h1{
+    margin-top: 10px;
+    margin-bottom: 0;
+    letter-spacing: -1px;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 40px;
+    color: white;
+}
+
+h2{
+    margin-top: 0;
+    font-style: italic;
+    color: rgb(24, 22, 22);
+    font-weight: 100;
+    letter-spacing: -1px;
+    color: white;
+}
+
+h3{
+    text-decoration: underline;
+    margin-bottom: 0;
+}
+
+h4{
+    margin-bottom: 5px;
+}
+
+h5{
+    margin-top: 0;
+    margin-bottom: 0;
+    font-style: italic;
+    color: rgb(10, 9, 9);
+}
+
+p{
+    text-align: justify;
+    margin-top: 15px;
+}
+
+.social-link{
+    text-decoration: none;
+}
+
+.social-icon{
+    width: 45px;
+}
+
+.jobs-list{
+    list-style: none;
+    padding: 20px;
+    padding-top: 0%;
+}
+
+.footer{
+    margin-top: 40px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}

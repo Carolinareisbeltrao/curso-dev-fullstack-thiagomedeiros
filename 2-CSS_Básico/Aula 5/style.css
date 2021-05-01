@@ -1,0 +1,18 @@
+body{
+    background-color: bisque;
+}
+
+p{
+    color: brown;
+}
+
+.foto-principal{
+    width: 200px;
+    border: 2px double white; /*shorthand*/
+    border-radius: 100% 50% 100% 50%;
+    
+   /* border-width: 5px;
+    border-style: double;
+    border-color: black;
+    */ 
+}

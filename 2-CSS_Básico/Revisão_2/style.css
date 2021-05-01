@@ -1,0 +1,69 @@
+body{
+    background-color: 	floralwhite;
+    margin: 0;
+}
+
+.container{
+    width: 900px;
+    margin: 0 auto;
+}
+
+.top-site{
+    text-align: center;
+    background-color: antiquewhite;
+    margin-bottom: 40px;
+}
+
+.foto-principal{
+    border: 2px solid #CD7F32;
+    border-style: outset;
+    border-radius: 50%;
+    margin-bottom: 0;
+}
+
+h1{
+    font-family: 'Architects Daughter', cursive;
+    margin-top: 15px;
+    margin-bottom: 0;
+}
+
+h2{
+    font-family: 'Noto Sans TC', sans-serif;
+    margin-top: 0;
+}
+
+h3{
+    font-family: 'Caveat', cursive;
+}
+
+.primeira-lista{
+    font-family: 'Noto Sans TC', sans-serif;
+    list-style:none;
+}
+
+p{
+    font-family: 'Noto Sans TC', sans-serif;
+    text-align: justify;
+}
+
+.restaurante-da-arcada{
+    border: 2px solid #CD7F32;
+    border-style: outset;
+}
+
+.museu-da-cerveja{
+    border: 2px solid #CD7F32;
+    border-style: outset;
+}
+
+.reference-list{
+    list-style: none;
+}
+
+.footer{
+    background-color: goldenrod;
+    font-size: large;
+    text-align: center;
+    margin-top: 40px;
+    padding: 10px 0;
+}
